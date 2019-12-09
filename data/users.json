@@ -1,0 +1,19 @@
+{
+  "results": [{
+      "id": 1,
+      "name": "Julie"
+    },
+    {
+      "id": 2,
+      "name": "Rebecca"
+    },
+    {
+      "id": 3,
+      "name": "Melanie"
+    },
+    {
+      "id": 4,
+      "name": "Joe"
+    }
+  ]
+}
